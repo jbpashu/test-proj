@@ -1,7 +1,6 @@
 # test-proj
 Prime Number With Unit tests
-# How to test this code
-# run follwoing command first
+#To test this code run follwoing command
 composer install
-# now run
+#now run
 vendor\bin\phpunit
